@@ -25,11 +25,9 @@ public class PrinterControllerAppl {
 				if (number != null && number >= 0 && number < names.length) {
 					printers.get(number).setRunning(false);
 				}
-			}
-			
-			
+			}			
 		}
-		
+		System.out.println("FINISH");
 
 	}
 

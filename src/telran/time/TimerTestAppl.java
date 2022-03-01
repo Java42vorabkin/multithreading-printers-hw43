@@ -14,6 +14,7 @@ public class TimerTestAppl {
 		//interrupt of itself
 //		Thread.currentThread().interrupt();
 //		Thread.sleep(1000000000000000000L);
+		System.out.println("The End");
 
 	}
 

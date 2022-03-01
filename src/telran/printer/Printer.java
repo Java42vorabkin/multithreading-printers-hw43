@@ -29,6 +29,7 @@ public void run() {
 			}
 		}
 	}
+	System.out.println(string + " finishes");
 }
 
 }
